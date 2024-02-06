@@ -1,4 +1,6 @@
 # lab-2
+there are the steps for adding python file in the repository.
+
 step1: git init
 
 step2: git add vandana_model_v1.ipynb
